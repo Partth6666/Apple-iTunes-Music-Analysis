@@ -47,6 +47,9 @@ Summarizing insights in a structured format.
 
 # Tools & Technologies
 SQL (PostgreSQL)
+
 CSV files for dataset import
+
 Power BI for visualization
+
 GitHub for project documentation
